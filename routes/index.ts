@@ -3,7 +3,7 @@ import testRouter from './test'
 
 const router = express.Router();
 
-router.use("/test", testRouter);
+router.use("/tests", testRouter);
 
 
 export default router;
