@@ -1,3 +1,7 @@
+## 프로젝트 설명
+Node.js, Express, TypeScript를 기반으로 한 백엔드 서버 템플릿 프로젝트입니다.</br>
+프론트엔드 개발시 백엔드 API 서버를 빠르게 구축할 수 있도록 설계된 구조로 MariaDB, Sequelize ORM을 사용해 데이터베이스 연동도 가능합니다.
+
 ## 개발 환경
 
 - 언어: TypeScript (tsx 파일 형식으로 개발)
@@ -15,8 +19,11 @@ PORT=디비 포트
 ```
 
 ## 기술 스택
+Express 프레임워크를 통해 RESTful API 서버를 구현합니다.
 
 - Node.js: v23.7.0
 - TypeScript
 - Express
 - mariaDB, sequelize
+
+
